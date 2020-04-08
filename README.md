@@ -1,45 +1,45 @@
 # Data Analysis - scientific project
 
-## data scientific project
+## Data Scientific Project
 
-### project content
+### Project Content
 
-#### basic libs usage example
+#### Basic libs Usage Example
 
 - [NumPy basic usage](notebooks/basic_numpy_usage.ipynb)
 
 - [Pandas basic usage](notebooks/basic_pandas_usage.ipynb)
 
-#### data analysis work flow
+#### Data Analysis Work Flow
 
-* Business understanding
+* Business Understanding
 
-* data understanding
+* Data Understanding
 
-* data-set prepare
-    * data cleansing
+* Data-set Prepare
+    * Data cleansing
         
         - [Pandas basic usage](notebooks/basic_pandas_usage.ipynb)
         
-    * data integrate
+    * Data Integrate
     
-    * data transform
+    * Data Transform
     
-    * data visualized
+    * Data Visualized
     
-* modelling
+* Modelling
     
-    * classification
+    * Classification
     
-    * cluster
+    * Cluster
     
-    * predict
+    * Predict
     
-    * relation
+    * Relation
     
-* model estimation
+* Model Estimation
 
-* on-line
+* On-line
 
 
 ## References
