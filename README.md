@@ -6,8 +6,9 @@
 
 #### basic libs usage example
 
-- [NumPy - quick start](https://numpy.org/devdocs/user/quickstart.html)
-- [Pandas - getting started](https://pandas.pydata.org/docs/getting_started/index.html)
+- [NumPy basic usage](notebooks/basic_numpy_usage.ipynb)
+
+- [Pandas basic usage](notebooks/basic_pandas_usage.ipynb)
 
 #### data analysis work flow
 
@@ -16,8 +17,10 @@
 * data understanding
 
 * data-set prepare
-    * data clean
-    
+    * data cleansing
+        
+        - [Pandas basic usage](notebooks/basic_pandas_usage.ipynb)
+        
     * data integrate
     
     * data transform
@@ -41,4 +44,6 @@
 
 ## References
 
-- 1 [数据分析 - 学习数据挖掘的最佳途径是什么](https://time.geekbang.org/column/article/73397)
+- 1 [NumPy - quick start](https://numpy.org/devdocs/user/quickstart.html)
+- 2 [Pandas - getting started](https://pandas.pydata.org/docs/getting_started/index.html)
+- 3 [数据分析 - 学习数据挖掘的最佳途径是什么](https://time.geekbang.org/column/article/73397)
