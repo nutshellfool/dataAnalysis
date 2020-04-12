@@ -49,9 +49,9 @@
             
             * data aggregation
             
-            * Data generalization
+            * data generalization
             
-            * Data normalization
+            * data normalization
                 
                 * Min-max 
                 
@@ -61,13 +61,43 @@
                 
               [scikit-learn data normalization usage](notebooks/transformation_normalization_scikit_learn_usage.ipynb)
                 
-            * Attribute construction   
+            * attribute construction   
          
         * tools 
         
             * [scikit-learn](https://scikit-learn.org/)
             
     * Data Visualized
+    
+        * categories
+            
+            * comparision
+                
+                * line plot
+                
+            * relation
+                
+                * scatter plot
+                
+            * compose
+                
+                * pie plot
+                 
+            * distribution
+                
+                * dist plot
+            
+        * tools
+        
+            * Matplotlib
+                
+                [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html)
+                
+            * Seaborn
+                
+                [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+        
+        [Data visualization usage](notebooks/visualization_matplotlib_seaborn_usage.ipynb)
     
 * Modelling
     
@@ -90,3 +120,5 @@
 - 2 [Pandas - getting started](https://pandas.pydata.org/docs/getting_started/index.html)
 - 3 [数据分析 - 学习数据挖掘的最佳途径是什么](https://time.geekbang.org/column/article/73397)
 - 4 [scikit-learn](https://scikit-learn.org/)
+- 5 [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html)
+- 6 [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
